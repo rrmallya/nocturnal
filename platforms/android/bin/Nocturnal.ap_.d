@@ -1,0 +1,24 @@
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/bin/Nocturnal.ap_ \
+ : /Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/res/drawable/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/res/drawable-hdpi/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/res/drawable-ldpi/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/res/drawable-mdpi/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/res/drawable-xhdpi/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/res/values/strings.xml \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/res/xml/config.xml \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/bin/res/drawable/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/bin/res/drawable-hdpi/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/bin/res/drawable-ldpi/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/bin/res/drawable-mdpi/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/cordova.js \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/cordova_plugins.js \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/css \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/img \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/index.html \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/js \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/css/index.css \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/img/logo.png \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/assets/www/js/index.js \
+/Users/Ramya/Google Drive/Work/Nocturnal/nocturnal/platforms/android/bin/AndroidManifest.xml \
